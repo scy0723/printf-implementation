@@ -1,4 +1,4 @@
-# printfTester (2019+)
+# printfTester
 Tester for the ft_printf project of 42 school (with personalized leaks checking on mac, using valgrind on linux)  
 Clone this tester in your ft printf repository. (works on linux and mac, no undefined behavior tests, handles timeout and sigsegv)  
 ![alt text](https://i.imgur.com/qRfDYuU.png)
@@ -40,7 +40,3 @@ ln -s /goinfre/${USER}/docker ~/.docker
 ![alt text](https://i.imgur.com/UeI7PHa.png)  
 ![alt text](https://i.imgur.com/GGJ6pbB.png)  
 ![alt text](https://i.imgur.com/LNRlfab.png)  
-
-
-# Report bugs / Improvement
-Contact me on slack or discord : jgambard
