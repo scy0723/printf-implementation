@@ -1,5 +1,5 @@
-
-Recoding the printf() function from libc (variadic functions)
+## variadic functions
+# Recoding the printf() function from libc
 
 - %c Prints a single character.
 
